@@ -2,7 +2,7 @@ Hi, I’m Gael Arturo León García and I'm a student of Computer Science at the
 - I like to learn about Linux, all kinds of customization of desktop environments, window managers and developing scripts for certain functions.
 - I have a great interest in mental health care and its importance in society.
 - I'm interested in meeting people and, if possible, engaging in health-focused computing activities.
-## Languages and Tools.
+##  I'm learning and using...
 [![Bash](https://skillicons.dev/icons?i=bash)](https://devdocs.io/bash/)
 [![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/es)
 [![Cpp](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
