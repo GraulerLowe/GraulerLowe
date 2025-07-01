@@ -6,7 +6,7 @@ Hi, I’m Gael Arturo León García and I'm a student of Computer Science at the
 ##  I'm learning and using...
 [![Bash](https://skillicons.dev/icons?i=bash)](https://devdocs.io/bash/)
 [![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/es)
-[![Cpp](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
+[![Golang](https://skillicons.dev/icons?i=golang)](https://go.dev/)
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![Emacs](https://skillicons.dev/icons?i=emacs)](https://www.gnu.org/software/emacs/)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
