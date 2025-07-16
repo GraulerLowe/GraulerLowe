@@ -12,6 +12,7 @@ Hi, I’m Gael Arturo León García and I'm a student of Computer Science at the
 [![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
 [![Vscodium](https://skillicons.dev/icons?i=vscodium)](https://vscodium.com/)
 [![Haskell](https://skillicons.dev/icons?i=haskell)](https://www.haskell.org/)
+[![Nix](https://skillicons.dev/icons?i=nix](https://nixos.org/)
 
 <!---
 GraulerLowe/GraulerLowe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
