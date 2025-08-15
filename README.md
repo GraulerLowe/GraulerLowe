@@ -13,6 +13,7 @@ Hi, I’m Gael Arturo León García and I'm a student of Computer Science at the
 [![Vscodium](https://skillicons.dev/icons?i=vscodium)](https://vscodium.com/)
 [![Haskell](https://skillicons.dev/icons?i=haskell)](https://www.haskell.org/)
 [![Nix](https://skillicons.dev/icons?i=nix)](https://nixos.org/)
+[![Js](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/API/Document)
 
 
 <!---
