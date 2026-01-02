@@ -15,7 +15,7 @@ Hi, I’m Gael Arturo León García and I'm a student of Computer Science at the
 [![Haskell](https://skillicons.dev/icons?i=haskell)](https://www.haskell.org/)
 [![Nix](https://skillicons.dev/icons?i=nix)](https://nixos.org/)
 [![Js](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/API/Document)
-[![Gentoo](https://skillicons.dev/icons?i=gentoo)](https://wiki.gentoo.org/wiki/Main_Page)
+![Gentoo](https://go-skill-icons.vercel.app/api/icons?i=gentoo&theme=dark)
 
 
 
