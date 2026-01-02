@@ -2,7 +2,8 @@ Hi, I’m Gael Arturo León García and I'm a student of Computer Science at the
 - I like to learn about Linux, all kinds of customization of desktop environments, window managers and developing scripts for certain functions.
 - I have a great interest in mental health care and its importance in society.
 - I'm interested in meeting people and, if possible, engaging in health-focused computing activities.
-- I want to get people to learn to help themselves.
+- I want to get people to learn to help themselves
+- I want to dedicate myself to the management of data protection and security, as well as the use of AI and its potential risks and regulations.
 ##  I'm learning and using...
 [![Bash](https://skillicons.dev/icons?i=bash)](https://devdocs.io/bash/)
 [![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/es)
@@ -14,6 +15,8 @@ Hi, I’m Gael Arturo León García and I'm a student of Computer Science at the
 [![Haskell](https://skillicons.dev/icons?i=haskell)](https://www.haskell.org/)
 [![Nix](https://skillicons.dev/icons?i=nix)](https://nixos.org/)
 [![Js](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/API/Document)
+[![Gentoo](https://skillicons.dev/icons?i=gentoo)](https://wiki.gentoo.org/wiki/Main_Page)
+
 
 
 <!---
